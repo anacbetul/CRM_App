@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314496004943",
+    "project_id": "myapplication-53592",
+    "storage_bucket": "myapplication-53592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314496004943:android:eb6d5f5c1a817fe6e94b3a",
+        "android_client_info": {
+          "package_name": "com.betul.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrs3MrVu0YOFTcblN2Gmd4ADpJgBCvrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
