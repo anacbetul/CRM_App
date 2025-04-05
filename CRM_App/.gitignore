@@ -1,1 +1,4 @@
 myapplication-53592-firebase-adminsdk-wwpqf-2df7797369.json
+*.json
+!appsettings.json
+!appsettings.Development.json
